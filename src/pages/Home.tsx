@@ -70,15 +70,16 @@ export default function Home() {
           Mit Stolz verweise ich heute zusätzlich auf mein aktuelles
           Hauptprojekt:
         </p>
-        <p className="mt-5">
+        <p className="my-10">
           👉{" "}
           <a
             href="https://laravel.riftcore.de"
             target="_blank"
-            rel="noopener noreferrer"
+            className="text-xl text-red-800 font-bold"
           >
             https://laravel.riftcore.de
-          </a>
+          </a>{" "}
+          👈
         </p>
         <p className="mt-3">
           Für diese Plattform habe ich bewusst einen eigenen vServer

@@ -1,13 +1,11 @@
-/node_modules
-vite.config.ts
-tsconfig.node.json
-tsconfig.json
-tsconfig.app.json
-package.json
-package-lock.json
+# Node
+node_modules/
+dist/
+# Logs
+*.log
+# OS
 .DS_Store
-eslint.config.js
-/.vite
-/dist
+Thumbs.db
+# Env
 .env
-src/vite-env.d.ts
+
