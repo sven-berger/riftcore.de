@@ -73,11 +73,11 @@ export default function Home() {
         <p className="my-10">
           👉{" "}
           <a
-            href="https://laravel.riftcore.de"
+            href="https://kyrex.de"
             target="_blank"
             className="text-xl text-red-800 font-bold"
           >
-            https://laravel.riftcore.de
+            https://kyrex.de
           </a>{" "}
           👈
         </p>
